@@ -40,3 +40,6 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+ul, ol {
+  list-style: none;
+}
